@@ -1,13 +1,4 @@
-Hi 👋 My name is Samantha Bandara
-=================================
 
-Software Engineer
------------------
-
-* 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [My Blog](http://coltbits Blog)
-* ✉️  You can contact me at [samanthabandarat@gmail.com](mailto:samanthabandarat@gmail.com)
-* 🧠  I'm learning Flutter,R programming
 
 ### Skills
 
@@ -33,15 +24,6 @@ Software Engineer
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="24" height="24" alt="Bootstrap" /></a>
 </a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="24" height="24" alt="rlang" /></a>
 </p>
-
-
-
-
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/samtbandara" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/samanthabthennakoon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
