@@ -2,7 +2,6 @@
 
 ### Skills
 
-
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="24" height="24" alt="Java" /></a>
 </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="24" height="24" alt="Git" /></a>
@@ -24,10 +23,6 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="24" height="24" alt="Bootstrap" /></a>
 </a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="24" height="24" alt="rlang" /></a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/samtbandara"><img src="https://github-readme-stats.vercel.app/api?username=samtbandara&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="samtbandara's GitHub stats" /></a>
 
